@@ -155,7 +155,7 @@ public class CalorieDeficitDesktopApp {
                 quantityField.setText("");
 
             } catch (Exception ex) {
-                JOptionPane.showMessageDialog(frame, "Fut një sasi të vlefshme (numër)!");
+                JOptionPane.showMessageDialog(frame, "Fut një sasi të vlefshme (numër)! ");
             }
         });
 
